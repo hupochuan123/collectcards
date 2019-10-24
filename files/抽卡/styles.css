@@ -7432,8 +7432,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
-  font-weight:700;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
   font-style:normal;
 }
 #u206 {
@@ -7443,8 +7442,7 @@
   top:2603px;
   width:207px;
   height:33px;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
-  font-weight:700;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
   font-style:normal;
 }
 #u206_text {
@@ -7469,8 +7467,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
-  font-weight:700;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
   font-style:normal;
 }
 #u207 {
@@ -7480,8 +7477,7 @@
   top:2678px;
   width:207px;
   height:33px;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
-  font-weight:700;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
   font-style:normal;
 }
 #u207_text {
@@ -7621,7 +7617,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:49px;
+  width:56px;
   height:28px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -7639,7 +7635,7 @@
   position:absolute;
   left:2230px;
   top:2681px;
-  width:49px;
+  width:56px;
   height:28px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
@@ -7650,7 +7646,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:49px;
+  width:56px;
   white-space:nowrap;
 }
 #u213_div {
